@@ -115,6 +115,6 @@ $ python train.py -config conifg/config_copynet.json
 First open a httpserver
 ```bash
 $ cd website
-$ python -m SimpleHTTPServer 8000
+$ python -m http.server 8000
 ```
 Open http://localhost:8000/demo.html in your browser
