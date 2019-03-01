@@ -35,7 +35,7 @@ Google ML Camp-燃烧我的GPU-项目
 ## Usage
 ### 1. Download the code and install
 ```bash
-$ git@github.com:ScarletPan/ML-Camp-BurnMyGpu.git
+$ git@github.com:OwenMasculinity/ML-Camp-BurnMyGpu.git
 $ python setup.py install
 ```
 
